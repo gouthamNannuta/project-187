@@ -1,0 +1,11 @@
+Model Information:
+* title:	Emoji_InLove
+* source:	https://sketchfab.com/3d-models/emoji-inlove-b232f57f69054bd491db551f625a5a7c
+* author:	JadeBarbiier (https://sketchfab.com/JadeBarbiier)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Emoji_InLove" (https://sketchfab.com/3d-models/emoji-inlove-b232f57f69054bd491db551f625a5a7c) by JadeBarbiier (https://sketchfab.com/JadeBarbiier) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

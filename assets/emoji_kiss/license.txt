@@ -1,0 +1,11 @@
+Model Information:
+* title:	Emoji_Kiss
+* source:	https://sketchfab.com/3d-models/emoji-kiss-76b0df0a4cb345dc8e79944680cdf04e
+* author:	JadeBarbiier (https://sketchfab.com/JadeBarbiier)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Emoji_Kiss" (https://sketchfab.com/3d-models/emoji-kiss-76b0df0a4cb345dc8e79944680cdf04e) by JadeBarbiier (https://sketchfab.com/JadeBarbiier) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
